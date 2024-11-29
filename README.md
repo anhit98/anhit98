@@ -1,4 +1,6 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rawpixel.com%2Fsearch%2Fcute%2520cat%2520wallpaper&psig=AOvVaw2IA7qiqmZULXZfejMBCu0F&ust=1732973404176000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiX_5TTgYoDFQAAAAAdAAAAABAE
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rawpixel.com%2Fsearch%2Fcute%2520cat%2520wallpaper&psig=AOvVaw2IA7qiqmZULXZfejMBCu0F&ust=1732973404176000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiX_5TTgYoDFQAAAAAdAAAAABAE
+](https://www.womansworld.com/wp-content/uploads/2024/08/cute-cats.jpg?w=1200&h=675&crop=1&quality=86&strip=all)
+
 <h1 align="center">Hi 👋, I'm Ngoc Anh</h1>
 <h3 align="center">A passionate full stack developer with more than 4 years++ expertise in front-end technologies like ReactJs, HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB, MySQL. Always eager to learn and take on new challenges in the tech world.</h3>
 
