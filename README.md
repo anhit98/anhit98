@@ -1,6 +1,6 @@
-
+![image](https://github.com/user-attachments/assets/b9dc6bfc-48ea-40dc-b13b-7ad9b98870a4)
   
-![Anh's GitHub Banner](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yv1s9-5rzlm5NTrWJUdRIA.jpeg)
+![Anh's GitHub Banner]([https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yv1s9-5rzlm5NTrWJUdRIA.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pawlicy.com%2Fblog%2Fcat-photos-for-monday%2F&psig=AOvVaw1tjMxj4pkzsQHIeUE6S3IT&ust=1732973062231000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiQ9Y_SgYoDFQAAAAAdAAAAABAJ))
 <h1 align="center">Hi 👋, I'm Ngoc Anh</h1>
 <h3 align="center">A passionate full stack developer with more than 4 years++ expertise in front-end technologies like ReactJs, HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB, MySQL. Always eager to learn and take on new challenges in the tech world.</h3>
 
