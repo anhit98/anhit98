@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/b9dc6bfc-48ea-40dc-b13b-7ad9b98870a4)
-  
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fp%2FCute-Cats-100066895250168%2F%3Flocale%3Dja_JP&psig=AOvVaw1tjMxj4pkzsQHIeUE6S3IT&ust=1732973062231000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiQ9Y_SgYoDFQAAAAAdAAAAABAh
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rawpixel.com%2Fsearch%2Fcute%2520cat%2520wallpaper&psig=AOvVaw2IA7qiqmZULXZfejMBCu0F&ust=1732973404176000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiX_5TTgYoDFQAAAAAdAAAAABAE
 <h1 align="center">Hi 👋, I'm Ngoc Anh</h1>
 <h3 align="center">A passionate full stack developer with more than 4 years++ expertise in front-end technologies like ReactJs, HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB, MySQL. Always eager to learn and take on new challenges in the tech world.</h3>
 
